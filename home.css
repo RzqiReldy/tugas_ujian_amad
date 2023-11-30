@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.awal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.awal img{
+ width: 1250px;
+ height: 350px;
+
+}
+
+h3{
+    padding: 20px;
+}
+
+.card2{
+    float: right;
+    padding-bottom: 500px;
+    margin-bottom: 700px;
+}
+
+footer{
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+}
+
+.nav-linkactive{
+    color: aliceblue;
+}
+
+.log a{
+    color: aliceblue;
+    text-decoration: none;
+   
+}
+
+.log:hover{
+    color:blue;
+}
